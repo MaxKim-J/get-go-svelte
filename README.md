@@ -5,11 +5,12 @@ originate from [Svelte Template](https://github.com/sveltejs/template)
 
 ## Added Feature
 
-- SPA router
-- Store
-- Alias
-- ENV variables
-- SASS
-- snippets
-- prettier
-- axios
+- [x] SPA router
+- [ ] Store
+- [x] Alias
+- [x] ENV variables
+- [x] SASS
+- [x] snippets
+- [x] prettier
+- [x] axios
+- [x] typescript?

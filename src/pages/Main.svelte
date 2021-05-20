@@ -1,4 +1,14 @@
-<script>
+<script lang="ts">
+  console.log(APP_ENV)
 </script>
 
-<div>get go svelte</div>
+<div class="main">
+  <div>get go svelte</div>
+</div>
+
+<style lang="scss">
+  .main {
+    display: flex;
+    justify-content: center;
+  }
+</style>

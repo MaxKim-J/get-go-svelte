@@ -1,0 +1,12 @@
+{
+  "default": {
+    "prefix": "getgo",
+    "body": ["<script></script>", "\n", "\n", "<div></div>", "\n", "\n", "<style></style>"],
+    "description": "Log output to console"
+  },
+  "tssass": {
+    "prefix": "getgo!",
+    "body": ["<script lang='ts'></script>", "\n", "\n", "<div></div>", "\n", "\n", "<style lang='sass'></style>"],
+    "description": "Log output to console"
+  }
+}
